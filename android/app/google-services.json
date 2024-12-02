@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "422634939506",
+    "project_id": "roomreserve-a4f27",
+    "storage_bucket": "roomreserve-a4f27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422634939506:android:b6793a1b89a4c513474eeb",
+        "android_client_info": {
+          "package_name": "com.example.room_reserve_admin_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJt22S__8hbcFzmV8z9HVis39DMYDntv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422634939506:android:25aae5238ff0e857474eeb",
+        "android_client_info": {
+          "package_name": "com.kaloo.roomreserve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJt22S__8hbcFzmV8z9HVis39DMYDntv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
